@@ -1,2 +1,2 @@
-// dummy content certs/development/to-be-deleted
-To be deleted
+// dummy content certs/development/to-be-copied
+To be copied to new repo

@@ -1,2 +1,2 @@
-// dummy content profiles/development/to-be-deleted-2
-To be deleted
+// dummy content profiles/development/to-be-copied-2
+To be copied to new repo
